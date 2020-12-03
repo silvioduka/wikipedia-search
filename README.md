@@ -1,6 +1,6 @@
 # Wikipedia Search App
 
-https://wsearch-sandy.vercel.app
+App link: https://wsearch-sandy.vercel.app
 
 ## Wikipedia search
 
